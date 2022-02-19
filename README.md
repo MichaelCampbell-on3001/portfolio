@@ -12,18 +12,51 @@ Start time: 4:30
 
 Finish time: 5:15
 
-Actual time needed to complete: 45 minutes
+Actual time needed to complete: 45 mins
 
 ---
 
-Number and name of feature: ________________________________
+Number and name of feature: 2 About me Page
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hr
 
-Start time: _____
+Start time: 5:30
 
-Finish time: _____
+Finish time: 5:50
 
-Actual time needed to complete: _____
+Actual time needed to complete: 20min
+
+---
+Number and name of feature: 3 Project section
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 5:30
+
+Finish time: 5:50
+
+Actual time needed to complete: 20min
+
+---
+Number and name of feature: 4 Skills and experience section
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 5:50
+
+Finish time: 6:10
+
+Actual time needed to complete: 20min
+
+---
+Number and name of feature: 5 Personlize
+
+Estimate of time needed to complete: 1 hr
+
+Start time: 6:10
+
+Finish time: 6:20
+
+Actual time needed to complete: 10min
 
 ---
