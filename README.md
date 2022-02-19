@@ -1,7 +1,7 @@
 # Michael Campbell Portfolio
 
 
-[link](michael-campbell-portfolio.netlify.app)
+[link](https://michael-campbell-portfolio.netlify.app)
 
 [Github Repo](https://github.com/MichaelCampbell-on3001/portfolio)
 
