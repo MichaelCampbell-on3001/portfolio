@@ -90,18 +90,7 @@
           "Bootstrap"
           
         ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "React",
-          "JavaScript"
-        ]
       }
+      
     ]
   }
