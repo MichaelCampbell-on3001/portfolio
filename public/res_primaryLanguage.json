@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello world",
+      "description": "👋 I am Michael Campbell. U.S. Navy Veteran and Full Stack Developer. I believe the Software Development community is an inherently nurturing and supporting environment. From my experience so far the industry mentality is to lift up individuals for the sake of the group. I would ideally want to work in an environment that supports learning and doesn’t punish mistakes. ",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,38 +11,38 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Regear-Career",
+        "startDate": "2021",
+        "description": "Any user can enter their location and a career they are interested in.  The app then makes a call to the Career One Stop API and returns information regarding the career searched. Search results include schools, meetups and entry level jobs.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/regear-career/p1.jpg",
+          "images/portfolio/regear-career/p2.jpg"
         ],
-        "url": "",
+        "url": "https://regear-career.herokuapp.com/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           }
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Event and Convention News",
+        "startDate": "2022",
+        "description": "This is a personal project of mine. It is a self populating news blog using and API call.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/eventconnews/p1.jpg",
+          "images/portfolio/eventconnews/p1.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://eventconnews.com/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,48 +55,40 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Theme Toggler",
+        "startDate": "2022",
+        "description": "Simple, light/dark toggler with customization option.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/themetoggler/p1.png",
+          "images/portfolio/themetoggler/p1.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/MichaelCampbell-on3001",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Krekow Jennings",
+        "title": "Carpenter",
+        "years": "2015 - 2020",
         "mainTech": [
-          "Angular 8/9/10"
+          "React"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Bootstrap"
+          
         ]
       },
       {
@@ -107,11 +99,8 @@
           "Angular 7/8"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "React",
+          "JavaScript"
         ]
       }
     ]

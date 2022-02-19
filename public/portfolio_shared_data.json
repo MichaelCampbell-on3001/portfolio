@@ -1,17 +1,17 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Michael Campbell",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/MichaelCampbell-on3001",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "url": "https://www.linkedin.com/in/michael-scott-campbell/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
